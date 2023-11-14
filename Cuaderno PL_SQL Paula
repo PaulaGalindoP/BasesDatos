@@ -1,1 +1,9 @@
+EJERCICIOS PRIMER CICLO (1-30): 
+
+Consultas Básicas:
+Mostrar todos los clientes en la tabla "Cliente". SELECT * FROM ClientePLSQL;
+Mostrar todos los autos en la tabla "Auto".
+Mostrar todos los alquileres en la tabla "Alquiler".
+Mostrar todas las sucursales en la tabla "Sucursal".
+Mostrar todas las reservas en la tabla "Reserva".
 
